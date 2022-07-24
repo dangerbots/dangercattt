@@ -1,7 +1,7 @@
-FROM xAbhish3k/waruserbot:slim-buster
+FROM dangerbots/dangercat:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/xAbhish3k/waruserbot.git /root/userbot
+RUN git clone https://github.com/dangerbots/dangercat.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
