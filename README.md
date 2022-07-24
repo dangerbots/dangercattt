@@ -1,6 +1,6 @@
 <h1 align="center">DANGER_CAT</h1>
 
-### Click Below Image to Deploy
+<h1 align="center">### Click Below Image to Deploy</h1>
 [![Deploy](https://telegra.ph/file/a711979a5c26d791209fa.jpg)](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CinderellaProBot.git)
 
 
