@@ -1,7 +1,7 @@
 <h1 align="center">DANGER_CAT</h1>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/511ad504656e712b88235.jpg)](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CinderellaProBot.git)
+[![Deploy](https://telegra.ph/file/a711979a5c26d791209fa.jpg)](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CinderellaProBot.git)
 
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
