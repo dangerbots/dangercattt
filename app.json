@@ -58,7 +58,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Don't change",
-      "value": "https://Github.com/xAbhish3k/Waruserbot",
+      "value": "https://github.com/dangerbots/dangercat",
       "required": false
     }
   },
